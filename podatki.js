@@ -124,8 +124,8 @@ const CONFIG = {
 
   pas: {
     slika: F.vrt, opis: "Vrt",
-    naslov: "Jeleni, zajčki in *dva ribnika*.",
-    besedilo: "Medtem ko vi pojeste, otroci hranijo zajčke. Kosilo, ki se ga pri nas ne pozabi.",
+    naslov: "Miza je pogrnjena *za vaše praznovanje*.",
+    besedilo: "Rojstni dan, obhajilo ali druženje z ribolovom. Pripravimo meni po vaši meri, otroci pa se medtem zabavajo ob jelenih in zajčkih.",
     povezava: { ime: "Praznovanja", url: "praznovanja.html" }
   },
 
